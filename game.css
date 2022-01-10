@@ -1,0 +1,35 @@
+body {
+    background-image: url(https://jooinn.com/images/night-sky-17.jpg);
+    background-size: cover;
+    background-position: center;
+}
+ 
+#hede {
+    font-size: 150px;
+    color: white;
+}
+
+#name_1 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#name_2 {
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+#divvv {
+    text-align: center;
+}
+
+.login_div1
+{
+    text-align: center;
+}
+
+#butt {
+    font-size: 18;
+}
